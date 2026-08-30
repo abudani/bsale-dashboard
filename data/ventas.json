@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T21:36:34.396116Z",
+  "updated_at": "2026-08-30T21:59:17.680340Z",
   "users": {
     "7": "Cindy Monsalves",
     "9": "Daisy Ponce",
@@ -8431,13 +8431,21 @@
         }
       ],
       "by_vendor": {
-        "7": {
-          "count": 59,
-          "neto": 66070285
+        "Monica Urrutia": {
+          "count": 58,
+          "neto": 74918599
         },
-        "2": {
-          "count": 63,
-          "neto": 80413574
+        "Daisy Ponce": {
+          "count": 21,
+          "neto": 18648083
+        },
+        "Cindy Monsalves": {
+          "count": 41,
+          "neto": 41405437
+        },
+        "Francisca Salinas": {
+          "count": 2,
+          "neto": 11511740
         }
       },
       "by_brand": {
@@ -8446,14 +8454,24 @@
         "FINE": 0
       },
       "by_vendor_brand": {
-        "7": {
-          "Teoxane": 58162409,
-          "RRS HA Long Lasting": 7907876,
+        "Monica Urrutia": {
+          "Teoxane": 63829710,
+          "RRS HA Long Lasting": 11088889,
           "FINE": 0
         },
-        "2": {
-          "Teoxane": 68064143,
-          "RRS HA Long Lasting": 12349431,
+        "Daisy Ponce": {
+          "Teoxane": 14848729,
+          "RRS HA Long Lasting": 3799354,
+          "FINE": 0
+        },
+        "Cindy Monsalves": {
+          "Teoxane": 37496157,
+          "RRS HA Long Lasting": 3909280,
+          "FINE": 0
+        },
+        "Francisca Salinas": {
+          "Teoxane": 10051956,
+          "RRS HA Long Lasting": 1459784,
           "FINE": 0
         }
       },
