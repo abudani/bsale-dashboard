@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T15:41:35.579138Z",
+  "updated_at": "2026-09-01T12:53:35.796566Z",
   "users": {
     "7": "Cindy Monsalves",
     "9": "Daisy Ponce",
@@ -4184,6 +4184,18 @@
     "1236": {
       "name": "Mauricio Saez Martínez",
       "rut": "17957548-5"
+    },
+    "1237": {
+      "name": "Romina Saravia Alvarez",
+      "rut": "17307609-6"
+    },
+    "1238": {
+      "name": "Servicios Médicos Patricia Ruth Cerda Soto E.I.R.L.",
+      "rut": "76648429-8"
+    },
+    "1239": {
+      "name": "Carolina Leal Venegas",
+      "rut": "20325177-7"
     }
   },
   "months": [
@@ -8558,6 +8570,24 @@
           "name": "De Santiago Odontologia SPA"
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 9,
+      "count_facturas": 0,
+      "count_nc": 0,
+      "neto_facturas": 0,
+      "neto_nc": 0,
+      "total_neto": 0,
+      "by_day": [],
+      "by_vendor": {},
+      "by_brand": {
+        "Teoxane": 0,
+        "RRS HA Long Lasting": 0,
+        "FINE": 0
+      },
+      "by_vendor_brand": {},
+      "top_clients": []
     }
   ]
 }
