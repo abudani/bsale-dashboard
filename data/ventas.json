@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T12:53:35.796566Z",
+  "updated_at": "2026-09-02T12:24:26.642838Z",
   "users": {
     "7": "Cindy Monsalves",
     "9": "Daisy Ponce",
@@ -4196,6 +4196,30 @@
     "1239": {
       "name": "Carolina Leal Venegas",
       "rut": "20325177-7"
+    },
+    "1240": {
+      "name": "Clínica Dental Dra.Nicole Díaz García Spa",
+      "rut": "77907931-7"
+    },
+    "1241": {
+      "name": "Constanza Wilson",
+      "rut": "18394189-5"
+    },
+    "1242": {
+      "name": "Amanda Miranda",
+      "rut": "20244474-1"
+    },
+    "1243": {
+      "name": "Clinica Gutierrez S.A",
+      "rut": "96793590-5"
+    },
+    "1244": {
+      "name": "Karla Quevedo Muñoz",
+      "rut": "19586386-5"
+    },
+    "1245": {
+      "name": "ODONTOLOGIA SLS DENT SPA",
+      "rut": "77678316-1"
     }
   },
   "months": [
