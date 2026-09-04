@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T12:22:40.608317Z",
+  "updated_at": "2026-09-04T12:23:10.584884Z",
   "users": {
     "7": "Cindy Monsalves",
     "9": "Daisy Ponce",
@@ -4224,6 +4224,22 @@
     "1246": {
       "name": "Inversiones Y Servicios Regenova Spa",
       "rut": "78458537-9"
+    },
+    "1247": {
+      "name": "ANGELA VALERIA ARROYO SOBARZO SERVICIOS ODONTOLOGICOS",
+      "rut": "77096577-2"
+    },
+    "1248": {
+      "name": "SOCIEDAD DE PROFESIONALES DE SALUD SKIN LAB CAVANCHA LIMITADA",
+      "rut": "78481627-3"
+    },
+    "1249": {
+      "name": "MH ALLESTHETIC",
+      "rut": "77989094-5"
+    },
+    "1250": {
+      "name": "Bruggemann spa",
+      "rut": "77801061-5"
     }
   },
   "months": [
