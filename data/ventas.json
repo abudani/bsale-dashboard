@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T12:23:10.584884Z",
+  "updated_at": "2026-09-05T11:29:54.533569Z",
   "users": {
     "7": "Cindy Monsalves",
     "9": "Daisy Ponce",
@@ -4240,6 +4240,22 @@
     "1250": {
       "name": "Bruggemann spa",
       "rut": "77801061-5"
+    },
+    "1251": {
+      "name": "DRA CAMILA FORNI E.I.R.L.",
+      "rut": "76813645-9"
+    },
+    "1252": {
+      "name": "Servicio Odontológico Macarena Hald Spa",
+      "rut": "77408221-2"
+    },
+    "1253": {
+      "name": "ZIBÁ ODONTOLOGÍA & ESTÉTICA FACIAL SPA",
+      "rut": "77954165-7"
+    },
+    "1254": {
+      "name": "SERVICIOS ODONTOLÓGICOS MILB SPA",
+      "rut": "77341785-7"
     }
   },
   "months": [
