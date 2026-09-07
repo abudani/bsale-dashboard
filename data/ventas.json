@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T11:51:12.844737Z",
+  "updated_at": "2026-09-07T13:48:41.881217Z",
   "users": {
     "7": "Cindy Monsalves",
     "9": "Daisy Ponce",
@@ -4256,6 +4256,18 @@
     "1254": {
       "name": "SERVICIOS ODONTOLÓGICOS MILB SPA",
       "rut": "77341785-7"
+    },
+    "1255": {
+      "name": "THEREVOLVECLINIC SPA",
+      "rut": "78439037-3"
+    },
+    "1256": {
+      "name": "DANIELA ANDRADES SPA",
+      "rut": "78396309-4"
+    },
+    "1257": {
+      "name": "ODONTOLOGIA Y ESTETICA ULLOA SPA",
+      "rut": "78438634-1"
     }
   },
   "months": [
