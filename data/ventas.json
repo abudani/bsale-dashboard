@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T13:48:41.881217Z",
+  "updated_at": "2026-09-08T12:24:49.479652Z",
   "users": {
     "7": "Cindy Monsalves",
     "9": "Daisy Ponce",
@@ -3578,7 +3578,7 @@
       "rut": "77496632-3"
     },
     "1082": {
-      "name": "AMERICA ANDREA CATHERINE ARELLANO CID",
+      "name": "AMERICA ARELLANO CID",
       "rut": "17410660-6"
     },
     "1083": {
@@ -4268,6 +4268,30 @@
     "1257": {
       "name": "ODONTOLOGIA Y ESTETICA ULLOA SPA",
       "rut": "78438634-1"
+    },
+    "1258": {
+      "name": "Yelitza Carolina Muñoz Salazar",
+      "rut": "26330799-2"
+    },
+    "1259": {
+      "name": "BelleClinique",
+      "rut": "77402567-7"
+    },
+    "1260": {
+      "name": "Quiropráctica y kinesiologia Simon Villalobos Spa",
+      "rut": "77470694-1"
+    },
+    "1261": {
+      "name": "Sociedad  Dr.Jaime Robles Pantoja y Cia. Ltda.",
+      "rut": "76838920-9"
+    },
+    "1262": {
+      "name": "Centro de estética dental Dermodent ltda",
+      "rut": "76791345-1"
+    },
+    "1263": {
+      "name": "ODONTOLOGIA ESTETICA MARCELA CASTILLO CASTRO EIRL",
+      "rut": "77535647-2"
     }
   },
   "months": [
