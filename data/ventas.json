@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T12:24:49.479652Z",
+  "updated_at": "2026-09-09T12:34:49.906597Z",
   "users": {
     "7": "Cindy Monsalves",
     "9": "Daisy Ponce",
@@ -4292,6 +4292,10 @@
     "1263": {
       "name": "ODONTOLOGIA ESTETICA MARCELA CASTILLO CASTRO EIRL",
       "rut": "77535647-2"
+    },
+    "1264": {
+      "name": "VENUS CENTRO DE DERMOESTETICA Y BIENESTAR SPA",
+      "rut": "78148071-1"
     }
   },
   "months": [
