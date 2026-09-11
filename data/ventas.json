@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T12:30:32.906058Z",
+  "updated_at": "2026-09-11T12:27:31.599843Z",
   "users": {
     "7": "Cindy Monsalves",
     "9": "Daisy Ponce",
@@ -4308,6 +4308,10 @@
     "1268": {
       "name": "Servicios Odontológicos Ximena Álvarez Spa",
       "rut": "77547056-9"
+    },
+    "1269": {
+      "name": "Servicios Odontológicos Maria Osorio",
+      "rut": "77525527-7"
     }
   },
   "months": [
