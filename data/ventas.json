@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T12:57:39.839243Z",
+  "updated_at": "2026-09-17T12:53:43.156659Z",
   "users": {
     "7": "Cindy Monsalves",
     "9": "Daisy Ponce",
@@ -4328,6 +4328,10 @@
     "1275": {
       "name": "Clinica Solea Dermaesthetics",
       "rut": "78291253-4"
+    },
+    "1276": {
+      "name": "BARBARA LERDON SPA",
+      "rut": "77165795-8"
     }
   },
   "months": [
