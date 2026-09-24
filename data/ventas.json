@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T13:08:30.571376Z",
+  "updated_at": "2026-09-24T13:02:11.424776Z",
   "users": {
     "7": "Cindy Monsalves",
     "9": "Daisy Ponce",
@@ -4336,6 +4336,10 @@
     "1277": {
       "name": "Carolina Oyanadel Morgado",
       "rut": "17974595-K"
+    },
+    "1278": {
+      "name": "Novadermoestetica",
+      "rut": "78390682-1"
     }
   },
   "months": [
@@ -8715,10 +8719,10 @@
       "year": 2026,
       "month": 9,
       "count_facturas": 0,
-      "count_nc": 8,
+      "count_nc": 10,
       "neto_facturas": 0,
-      "neto_nc": 5692831,
-      "total_neto": -5692831,
+      "neto_nc": 8025428,
+      "total_neto": -8025428,
       "by_day": [],
       "by_vendor": {
         "Daisy Ponce": {
@@ -8731,7 +8735,7 @@
         },
         "Monica Urrutia": {
           "count": 0,
-          "neto": -1287562
+          "neto": -3620159
         },
         "Sin asignar": {
           "count": 0,
@@ -8739,8 +8743,8 @@
         }
       },
       "by_brand": {
-        "Teoxane": -4267070,
-        "RRS HA Long Lasting": -171761,
+        "Teoxane": -5555360,
+        "RRS HA Long Lasting": -1216068,
         "FINE": 0
       },
       "by_vendor_brand": {
@@ -8755,8 +8759,8 @@
           "FINE": 0
         },
         "Monica Urrutia": {
-          "Teoxane": -1287562,
-          "RRS HA Long Lasting": 0,
+          "Teoxane": -2575852,
+          "RRS HA Long Lasting": -1044307,
           "FINE": 0
         },
         "Sin asignar": {
