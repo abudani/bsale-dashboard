@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T14:25:43.060704Z",
+  "updated_at": "2026-10-01T14:56:47.439960Z",
   "users": {
     "7": "Cindy Monsalves",
     "9": "Daisy Ponce",
@@ -8773,6 +8773,24 @@
           "FINE": 0
         }
       },
+      "top_clients": []
+    },
+    {
+      "year": 2026,
+      "month": 10,
+      "count_facturas": 0,
+      "count_nc": 0,
+      "neto_facturas": 0,
+      "neto_nc": 0,
+      "total_neto": 0,
+      "by_day": [],
+      "by_vendor": {},
+      "by_brand": {
+        "Teoxane": 0,
+        "RRS HA Long Lasting": 0,
+        "FINE": 0
+      },
+      "by_vendor_brand": {},
       "top_clients": []
     }
   ]
