@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T14:47:58.498884Z",
+  "updated_at": "2026-10-10T14:06:59.933283Z",
   "users": {
     "7": "Cindy Monsalves",
     "9": "Daisy Ponce",
@@ -8783,13 +8783,17 @@
       "year": 2026,
       "month": 10,
       "count_facturas": 0,
-      "count_nc": 1,
+      "count_nc": 2,
       "neto_facturas": 0,
-      "neto_nc": 615600,
-      "total_neto": -615600,
+      "neto_nc": 1231200,
+      "total_neto": -1231200,
       "by_day": [],
       "by_vendor": {
         "Monica Urrutia": {
+          "count": 0,
+          "neto": -615600
+        },
+        "Cindy Monsalves": {
           "count": 0,
           "neto": -615600
         }
@@ -8801,6 +8805,11 @@
       },
       "by_vendor_brand": {
         "Monica Urrutia": {
+          "Teoxane": 0,
+          "RRS HA Long Lasting": 0,
+          "FINE": 0
+        },
+        "Cindy Monsalves": {
           "Teoxane": 0,
           "RRS HA Long Lasting": 0,
           "FINE": 0
