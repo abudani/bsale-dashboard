@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12T17:09:00.364342Z",
+  "updated_at": "2026-10-13T15:25:36.465668Z",
   "users": {
     "7": "Cindy Monsalves",
     "9": "Daisy Ponce",
@@ -3285,10 +3285,6 @@
       "name": "ODONTOLOGÍA Y ESTÉTICA CCL SPA",
       "rut": "77471495-2"
     },
-    "1009": {
-      "name": "PAMELA AILEEN LIZANA BECERRA",
-      "rut": "15915901-9"
-    },
     "1010": {
       "name": "JAVIERA IGNACIA FLORES ALMARZA",
       "rut": "20132883-7"
@@ -4348,6 +4344,14 @@
     "1282": {
       "name": "ROSSANA AURELIA AGUILERA ASTETE",
       "rut": "13108315-7"
+    },
+    "1283": {
+      "name": "Pamela Lizana Becerra",
+      "rut": "15915901-9"
+    },
+    "1284": {
+      "name": "Paula Ferreira Luttgues",
+      "rut": "18371929-7"
     }
   },
   "months": [
