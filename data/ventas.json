@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T12:58:04.226800Z",
+  "updated_at": "2026-10-16T12:52:24.078725Z",
   "users": {
     "7": "Cindy Monsalves",
     "9": "Daisy Ponce",
@@ -4360,6 +4360,22 @@
     "1286": {
       "name": "Servicios Odontologicos Saric Spa",
       "rut": "77599989-6"
+    },
+    "1287": {
+      "name": "DEFAUR Y FIGUEROA SERVICIOS PROFESIONALES LIMITADA",
+      "rut": "78190097-4"
+    },
+    "1288": {
+      "name": "Doctor H. Fernando Sandoval Spa",
+      "rut": "78221138-2"
+    },
+    "1289": {
+      "name": "CATALINA IGNACIA FERNANDEZ GODOY ODONTOLOGIA EIRL",
+      "rut": "77706699-4"
+    },
+    "1290": {
+      "name": "Camila Moya Arceu",
+      "rut": "19636687-3"
     }
   },
   "months": [
