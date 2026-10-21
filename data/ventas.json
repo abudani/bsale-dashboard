@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T13:09:24.312822Z",
+  "updated_at": "2026-10-21T13:20:22.991807Z",
   "users": {
     "7": "Cindy Monsalves",
     "9": "Daisy Ponce",
@@ -4380,6 +4380,10 @@
     "1291": {
       "name": "CAMILA CRUZ ESPINDOLA",
       "rut": "18637486-K"
+    },
+    "1292": {
+      "name": "Olivos y katz limitada",
+      "rut": "77485809-1"
     }
   },
   "months": [
