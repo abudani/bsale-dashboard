@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T13:19:43.659904Z",
+  "updated_at": "2026-10-23T12:58:17.968702Z",
   "users": {
     "7": "Cindy Monsalves",
     "9": "Daisy Ponce",
@@ -4046,7 +4046,7 @@
       "rut": "78249358-2"
     },
     "1206": {
-      "name": "Sociedad e Inversiones Mudra Skin Spa",
+      "name": "Sociedad E Inversiones Mudra Skin Spa",
       "rut": "78264052-6"
     },
     "1208": {
@@ -4086,7 +4086,7 @@
       "rut": "78246563-5"
     },
     "1217": {
-      "name": "Jasmin Del Valle Angel Angel",
+      "name": "Jasmin Del Valle Angel",
       "rut": "27134807-k"
     },
     "1218": {
@@ -4110,7 +4110,7 @@
       "rut": "78140931-6"
     },
     "1223": {
-      "name": "SERVICIOS MÉDICOS Y ODONTOLÓGICOS LE FACE SPA",
+      "name": "Servicios Médicos Y Odontológicos Le Face Spa",
       "rut": "78178398-6"
     },
     "1224": {
@@ -4214,7 +4214,7 @@
       "rut": "77989094-5"
     },
     "1250": {
-      "name": "Bruggemann spa",
+      "name": "Bruggemann Spa",
       "rut": "77801061-5"
     },
     "1251": {
@@ -4274,7 +4274,7 @@
       "rut": "78148071-1"
     },
     "1265": {
-      "name": "Odontología Sapunar SpA",
+      "name": "Odontología Sapunar Spa",
       "rut": "78295955-7"
     },
     "1266": {
@@ -4384,6 +4384,14 @@
     "1292": {
       "name": "Olivos y katz limitada",
       "rut": "77485809-1"
+    },
+    "1293": {
+      "name": "ODONTOLOGIA INTEGRAL Y ESTETICA COLORS SPA",
+      "rut": "77094414-7"
+    },
+    "1294": {
+      "name": "CLINICA LASER APOQUINDO LIMITADA",
+      "rut": "77795517-9"
     }
   },
   "months": [
@@ -8819,10 +8827,10 @@
       "year": 2026,
       "month": 10,
       "count_facturas": 0,
-      "count_nc": 2,
+      "count_nc": 4,
       "neto_facturas": 0,
-      "neto_nc": 1231200,
-      "total_neto": -1231200,
+      "neto_nc": 2959981,
+      "total_neto": -2959981,
       "by_day": [],
       "by_vendor": {
         "Monica Urrutia": {
@@ -8832,10 +8840,18 @@
         "Cindy Monsalves": {
           "count": 0,
           "neto": -615600
+        },
+        "Daisy Ponce": {
+          "count": 0,
+          "neto": -1121754
+        },
+        "Sin asignar": {
+          "count": 0,
+          "neto": -607027
         }
       },
       "by_brand": {
-        "Teoxane": 0,
+        "Teoxane": -1728781,
         "RRS HA Long Lasting": 0,
         "FINE": 0
       },
@@ -8847,6 +8863,16 @@
         },
         "Cindy Monsalves": {
           "Teoxane": 0,
+          "RRS HA Long Lasting": 0,
+          "FINE": 0
+        },
+        "Daisy Ponce": {
+          "Teoxane": -1121754,
+          "RRS HA Long Lasting": 0,
+          "FINE": 0
+        },
+        "Sin asignar": {
+          "Teoxane": -607027,
           "RRS HA Long Lasting": 0,
           "FINE": 0
         }
