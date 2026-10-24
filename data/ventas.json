@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T12:58:17.968702Z",
+  "updated_at": "2026-10-24T12:21:53.296544Z",
   "users": {
     "7": "Cindy Monsalves",
     "9": "Daisy Ponce",
@@ -4392,6 +4392,14 @@
     "1294": {
       "name": "CLINICA LASER APOQUINDO LIMITADA",
       "rut": "77795517-9"
+    },
+    "1295": {
+      "name": "Centro médico y estético AnJoh  SPA",
+      "rut": "78381544-3"
+    },
+    "1296": {
+      "name": "Inversiones Odontologica Estetica Spa",
+      "rut": "78397665-K"
     }
   },
   "months": [
