@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T14:42:10.557781Z",
+  "updated_at": "2026-10-29T14:47:43.894375Z",
   "users": {
     "7": "Cindy Monsalves",
     "9": "Daisy Ponce",
@@ -4400,6 +4400,10 @@
     "1296": {
       "name": "Inversiones Odontologica Estetica Spa",
       "rut": "78397665-K"
+    },
+    "1297": {
+      "name": "Sociedad medica y odontologica Vilchez Valenzuela Spa.",
+      "rut": "78087828-2"
     }
   },
   "months": [
