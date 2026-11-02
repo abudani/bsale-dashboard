@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T14:37:56.145479Z",
+  "updated_at": "2026-11-02T17:35:24.853468Z",
   "users": {
     "7": "Cindy Monsalves",
     "9": "Daisy Ponce",
@@ -4404,6 +4404,10 @@
     "1297": {
       "name": "Sociedad medica y odontologica Vilchez Valenzuela Spa.",
       "rut": "78087828-2"
+    },
+    "1298": {
+      "name": "SOCIEDAD ODONTOLOGICA OPAZO SPA",
+      "rut": "77404296-2"
     }
   },
   "months": [
