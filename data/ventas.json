@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T15:52:05.990226Z",
+  "updated_at": "2026-11-05T15:57:02.221593Z",
   "users": {
     "7": "Cindy Monsalves",
     "9": "Daisy Ponce",
@@ -4408,6 +4408,18 @@
     "1298": {
       "name": "SOCIEDAD ODONTOLOGICA OPAZO SPA",
       "rut": "77404296-2"
+    },
+    "1299": {
+      "name": "CLINICA LA UNION CENTRO DE BIENESTAR SPA",
+      "rut": "77893691-7"
+    },
+    "1300": {
+      "name": "L&S centro dermoestético y kinesiologico integral SPa",
+      "rut": "77549178-7"
+    },
+    "1301": {
+      "name": "Clínica Franjo Vukelic limitada",
+      "rut": "77787015-7"
     }
   },
   "months": [
