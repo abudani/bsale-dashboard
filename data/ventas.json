@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T15:57:02.221593Z",
+  "updated_at": "2026-11-06T15:29:24.394787Z",
   "users": {
     "7": "Cindy Monsalves",
     "9": "Daisy Ponce",
@@ -4420,6 +4420,14 @@
     "1301": {
       "name": "Clínica Franjo Vukelic limitada",
       "rut": "77787015-7"
+    },
+    "1302": {
+      "name": "Carolina Sepúlveda",
+      "rut": "18145503-9"
+    },
+    "1303": {
+      "name": "Doctora Catalina Lira SPA",
+      "rut": "77243758-7"
     }
   },
   "months": [
