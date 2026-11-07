@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T15:29:24.394787Z",
+  "updated_at": "2026-11-07T14:30:57.563971Z",
   "users": {
     "7": "Cindy Monsalves",
     "9": "Daisy Ponce",
@@ -4428,6 +4428,18 @@
     "1303": {
       "name": "Doctora Catalina Lira SPA",
       "rut": "77243758-7"
+    },
+    "1304": {
+      "name": "CINDY GRACE SERVICIOS DENTALES SPA",
+      "rut": "77927757-7"
+    },
+    "1305": {
+      "name": "PILAR ISABEL NEIRA CUEVAS",
+      "rut": "19906195-k"
+    },
+    "1306": {
+      "name": "Catalina Lucero",
+      "rut": "17956750-4"
     }
   },
   "months": [
