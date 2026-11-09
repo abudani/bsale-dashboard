@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T14:39:29.548475Z",
+  "updated_at": "2026-11-09T17:59:48.532107Z",
   "users": {
     "7": "Cindy Monsalves",
     "9": "Daisy Ponce",
@@ -4440,6 +4440,10 @@
     "1306": {
       "name": "Catalina Lucero",
       "rut": "17956750-4"
+    },
+    "1307": {
+      "name": "Espacio De Salud Integral Magnolia Spa",
+      "rut": "77935033-9"
     }
   },
   "months": [
