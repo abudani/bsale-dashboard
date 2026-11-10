@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T17:59:48.532107Z",
+  "updated_at": "2026-11-10T15:57:33.002749Z",
   "users": {
     "7": "Cindy Monsalves",
     "9": "Daisy Ponce",
@@ -4444,6 +4444,14 @@
     "1307": {
       "name": "Espacio De Salud Integral Magnolia Spa",
       "rut": "77935033-9"
+    },
+    "1308": {
+      "name": "Servicios médicos cerro el plomo Santiago",
+      "rut": "77785557-3"
+    },
+    "1309": {
+      "name": "Empresa Imagen Facial SPA",
+      "rut": "77770905-4"
     }
   },
   "months": [
