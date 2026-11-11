@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T15:57:33.002749Z",
+  "updated_at": "2026-11-11T15:43:22.313382Z",
   "users": {
     "7": "Cindy Monsalves",
     "9": "Daisy Ponce",
@@ -4452,6 +4452,14 @@
     "1309": {
       "name": "Empresa Imagen Facial SPA",
       "rut": "77770905-4"
+    },
+    "1310": {
+      "name": "Sociedades Alvarez Contreras SPA",
+      "rut": "78331649-8"
+    },
+    "1311": {
+      "name": "Clinica Gold Dent SPA",
+      "rut": "77809046-5"
     }
   },
   "months": [
@@ -8943,18 +8951,38 @@
       "year": 2026,
       "month": 11,
       "count_facturas": 0,
-      "count_nc": 0,
+      "count_nc": 3,
       "neto_facturas": 0,
-      "neto_nc": 0,
-      "total_neto": 0,
+      "neto_nc": 1779119,
+      "total_neto": -1779119,
       "by_day": [],
-      "by_vendor": {},
+      "by_vendor": {
+        "nan": {
+          "count": 0,
+          "neto": -577117
+        },
+        "Monica Urrutia": {
+          "count": 0,
+          "neto": -1202002
+        }
+      },
       "by_brand": {
-        "Teoxane": 0,
-        "RRS HA Long Lasting": 0,
+        "Teoxane": -157695,
+        "RRS HA Long Lasting": -1621424,
         "FINE": 0
       },
-      "by_vendor_brand": {},
+      "by_vendor_brand": {
+        "nan": {
+          "Teoxane": 0,
+          "RRS HA Long Lasting": -577117,
+          "FINE": 0
+        },
+        "Monica Urrutia": {
+          "Teoxane": -157695,
+          "RRS HA Long Lasting": -1044307,
+          "FINE": 0
+        }
+      },
       "top_clients": []
     }
   ]
