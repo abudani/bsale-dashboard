@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T16:27:53.203812Z",
+  "updated_at": "2026-11-13T15:48:25.401507Z",
   "users": {
     "7": "Cindy Monsalves",
     "9": "Daisy Ponce",
@@ -4460,6 +4460,10 @@
     "1311": {
       "name": "Clinica Gold Dent SPA",
       "rut": "77809046-5"
+    },
+    "1312": {
+      "name": "SOCIEDAD PROFESIONAL  MARTINEZ FLORES SPA",
+      "rut": "78113883-5"
     }
   },
   "months": [
