@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T15:06:46.668772Z",
+  "updated_at": "2026-11-16T17:41:17.405584Z",
   "users": {
     "7": "Cindy Monsalves",
     "9": "Daisy Ponce",
@@ -4464,6 +4464,10 @@
     "1312": {
       "name": "SOCIEDAD PROFESIONAL  MARTINEZ FLORES SPA",
       "rut": "78113883-5"
+    },
+    "1313": {
+      "name": "Clinica Ama Dental Spa",
+      "rut": "78457424-5"
     }
   },
   "months": [
