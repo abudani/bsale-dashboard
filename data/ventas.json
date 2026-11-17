@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T17:41:17.405584Z",
+  "updated_at": "2026-11-17T17:13:43.004128Z",
   "users": {
     "7": "Cindy Monsalves",
     "9": "Daisy Ponce",
@@ -4468,6 +4468,18 @@
     "1313": {
       "name": "Clinica Ama Dental Spa",
       "rut": "78457424-5"
+    },
+    "1314": {
+      "name": "ARACENA Y SANCHEZ LIMITADA",
+      "rut": "76029291-5"
+    },
+    "1315": {
+      "name": "ELYSIA SALUD Y ESTETICA SPA",
+      "rut": "78264835-7"
+    },
+    "1316": {
+      "name": "Prestaciones Medicas Palma y Lopez ltda",
+      "rut": "76883355-9"
     }
   },
   "months": [
