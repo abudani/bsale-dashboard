@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T17:13:43.004128Z",
+  "updated_at": "2026-11-18T16:50:27.832959Z",
   "users": {
     "7": "Cindy Monsalves",
     "9": "Daisy Ponce",
@@ -4480,6 +4480,14 @@
     "1316": {
       "name": "Prestaciones Medicas Palma y Lopez ltda",
       "rut": "76883355-9"
+    },
+    "1317": {
+      "name": "KURA FIT & AESTHETICS",
+      "rut": "78446074-6"
+    },
+    "1318": {
+      "name": "MARIA IGNACIA LUCO",
+      "rut": "20038694-9"
     }
   },
   "months": [
@@ -8971,10 +8979,10 @@
       "year": 2026,
       "month": 11,
       "count_facturas": 0,
-      "count_nc": 3,
+      "count_nc": 4,
       "neto_facturas": 0,
-      "neto_nc": 1779119,
-      "total_neto": -1779119,
+      "neto_nc": 2996137,
+      "total_neto": -2996137,
       "by_day": [],
       "by_vendor": {
         "nan": {
@@ -8984,10 +8992,14 @@
         "Monica Urrutia": {
           "count": 0,
           "neto": -1202002
+        },
+        "Sin asignar": {
+          "count": 0,
+          "neto": -1217018
         }
       },
       "by_brand": {
-        "Teoxane": -157695,
+        "Teoxane": -1374713,
         "RRS HA Long Lasting": -1621424,
         "FINE": 0
       },
@@ -9000,6 +9012,11 @@
         "Monica Urrutia": {
           "Teoxane": -157695,
           "RRS HA Long Lasting": -1044307,
+          "FINE": 0
+        },
+        "Sin asignar": {
+          "Teoxane": -1217018,
+          "RRS HA Long Lasting": 0,
           "FINE": 0
         }
       },
