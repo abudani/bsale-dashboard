@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T15:47:47.862794Z",
+  "updated_at": "2026-11-23T19:40:10.207579Z",
   "users": {
     "7": "Cindy Monsalves",
     "9": "Daisy Ponce",
@@ -4496,6 +4496,14 @@
     "1320": {
       "name": "Soc. de Inversiones y Prestaciones Restaura ltda.",
       "rut": "77302882-6"
+    },
+    "1321": {
+      "name": "VIDAUMED SPA",
+      "rut": "78156669-1"
+    },
+    "1322": {
+      "name": "Gestión Medica y Espacios Spa",
+      "rut": "78525643-3"
     }
   },
   "months": [
