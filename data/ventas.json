@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T19:40:10.207579Z",
+  "updated_at": "2026-11-24T19:14:02.058745Z",
   "users": {
     "7": "Cindy Monsalves",
     "9": "Daisy Ponce",
@@ -4504,6 +4504,10 @@
     "1322": {
       "name": "Gestión Medica y Espacios Spa",
       "rut": "78525643-3"
+    },
+    "1323": {
+      "name": "VELORA CLINIC SPA",
+      "rut": "78534062-0"
     }
   },
   "months": [
