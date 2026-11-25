@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T19:14:02.058745Z",
+  "updated_at": "2026-11-25T18:18:25.737872Z",
   "users": {
     "7": "Cindy Monsalves",
     "9": "Daisy Ponce",
@@ -4346,7 +4346,7 @@
       "rut": "13108315-7"
     },
     "1283": {
-      "name": "Pamela Lizana Becerra",
+      "name": "Pamela Lizana",
       "rut": "15915901-9"
     },
     "1284": {
@@ -4508,6 +4508,10 @@
     "1323": {
       "name": "VELORA CLINIC SPA",
       "rut": "78534062-0"
+    },
+    "1324": {
+      "name": "CLÍNICA DE SALUD PRIVADA ODONTOLOGÍA Y OTROS SERVICIOS DR. NICOLÁS UTRERAS BRITO E.I.R.L.",
+      "rut": "78184189-7"
     }
   },
   "months": [
