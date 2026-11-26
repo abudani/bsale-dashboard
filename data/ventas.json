@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T18:18:25.737872Z",
+  "updated_at": "2026-11-26T17:59:41.246821Z",
   "users": {
     "7": "Cindy Monsalves",
     "9": "Daisy Ponce",
@@ -4512,6 +4512,30 @@
     "1324": {
       "name": "CLÍNICA DE SALUD PRIVADA ODONTOLOGÍA Y OTROS SERVICIOS DR. NICOLÁS UTRERAS BRITO E.I.R.L.",
       "rut": "78184189-7"
+    },
+    "1325": {
+      "name": "SERVICIO ODONTOLOGICO CYNTHIA CAMPOS EIRL",
+      "rut": "76829442-9"
+    },
+    "1326": {
+      "name": "CENTRO MEDICO LIHUEN",
+      "rut": "77465868-8"
+    },
+    "1327": {
+      "name": "DONZE SPA",
+      "rut": "78162726-7"
+    },
+    "1328": {
+      "name": "CLINICA DENTAL PAULA HORMAZABAL SPA",
+      "rut": "78010103-2"
+    },
+    "1329": {
+      "name": "Clinica Dental Egaña Spa",
+      "rut": "76988998-1"
+    },
+    "1330": {
+      "name": "CLINICA ESTETICA GLOW FACE SPA",
+      "rut": "78275288-K"
     }
   },
   "months": [
