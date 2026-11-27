@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T17:59:41.246821Z",
+  "updated_at": "2026-11-27T17:44:25.839246Z",
   "users": {
     "7": "Cindy Monsalves",
     "9": "Daisy Ponce",
@@ -4536,6 +4536,10 @@
     "1330": {
       "name": "CLINICA ESTETICA GLOW FACE SPA",
       "rut": "78275288-K"
+    },
+    "1331": {
+      "name": "Natalia Oyaneder",
+      "rut": "19437613-8"
     }
   },
   "months": [
